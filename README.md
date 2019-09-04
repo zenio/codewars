@@ -1,2 +1,3 @@
-# codewars
-Codewars solutions
+# Codewars solutions
+
+My codewars kata solutions
